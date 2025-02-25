@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiaoyu Chen @c-xy17
 - 👀 I’m interested in cognitive and computational neuroscience
-- 🌱 I’m currently learning neurodynamic modeling 
+- 🌱 I’m currently learning cognitive neuroscience and neurodynamic modeling 
 - 📫 How to reach me: xiaoyu17.chen@gmail.com
 
 <!---
